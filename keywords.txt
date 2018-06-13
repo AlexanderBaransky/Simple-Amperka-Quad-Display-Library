@@ -1,0 +1,73 @@
+﻿#######################################
+# Syntax Coloring Map for SimpleAmperkaQuadDisplay2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+QuadDisplay	KEYWORD1	QuadDisplay
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+end	KEYWORD2
+displayInt	KEYWORD2
+displayFloat	KEYWORD2
+displayDigits	KEYWORD2
+displaySegments	KEYWORD2
+displayTemperatureC	KEYWORD2
+displayHumidity	KEYWORD2
+displayScore	KEYWORD2
+displayClear	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+qd_none	LITERAL1
+qd_dot	LITERAL1
+qd_minus	LITERAL1
+qd_minus	LITERAL1
+qd_degree	LITERAL1
+qd_under_degree	LITERAL1
+qd_0	LITERAL1
+qd_1	LITERAL1
+qd_2	LITERAL1
+qd_3	LITERAL1
+qd_4	LITERAL1
+qd_5	LITERAL1
+qd_6	LITERAL1
+qd_7	LITERAL1
+qd_8	LITERAL1
+qd_9	LITERAL1
+qd_A	LITERAL1
+qd_a	LITERAL1
+qd_b	LITERAL1
+qd_C	LITERAL1
+qd_c	LITERAL1
+qd_d	LITERAL1
+qd_E	LITERAL1
+qd_f	LITERAL1
+qd_F	LITERAL1
+qd_G	LITERAL1
+qd_H	LITERAL1
+qd_h	LITERAL1
+qd_I	LITERAL1
+qd_J	LITERAL1
+qd_K	LITERAL1
+qd_L	LITERAL1
+qd_n	LITERAL1
+qd_o	LITERAL1
+qd_O	LITERAL1
+qd_P	LITERAL1
+qd_r	LITERAL1
+qd_S	LITERAL1
+qd_t	LITERAL1
+qd_u	LITERAL1
+qd_U	LITERAL1
+qd_V	LITERAL1
+qd_X	LITERAL1
+qd_Y	LITERAL1
+qd_Z	LITERAL1
